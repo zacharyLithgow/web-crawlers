@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"version": "1.0.1",
+	"dependencies": {
+		"request": ">= 2.0.0",
+		"htmlparser2": ">= 3.9.1",
+		"cheerio": ">= 0.22.0",
+		"sync-request": ">= 3.0.1"
+	}
+}
